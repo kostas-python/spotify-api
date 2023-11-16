@@ -1,0 +1,1 @@
+This is an Api from spotify for searching the top 10 tracks of the chosen artist.
