@@ -1,1 +1,1 @@
-This is an Api from spotify for searching the top 10 tracks of the chosen artist.
+This is a simple Spotify API app to search for the first top 10 tracks of your favourite artist. (json included).
